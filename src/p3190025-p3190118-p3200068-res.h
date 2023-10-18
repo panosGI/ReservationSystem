@@ -1,0 +1,17 @@
+const int Ntel=3;	//thlefonites
+const int Ncash=2;	//tamies
+const int Nseat=10;	//theseis ana seira
+const int NzoneA=10;	//seires
+const int NzoneB=20;	//seires
+const int PzoneA=30;
+const int CzoneA=30;
+const int CzoneB=20;
+const int Nseatlow=1;
+const int Nseathigh=5;
+const int treslow=1;
+const int treshigh=5;
+const int tseatlow=5;
+const int tseathigh=13;
+const int tcashlow=4;
+const int tcashhigh=8;
+const int Pcardsucces=90;
